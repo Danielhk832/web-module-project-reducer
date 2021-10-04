@@ -14,7 +14,7 @@ This module explored the reducer pattern. During the module, you studied what im
 
 In this project, you will build an complete a simple calculator app that can add, multiply, subtract and clear numbers in any order as well as add in memory save and recall features. You will start by adding in missing pieces to the code and complete the process by building features in to the UI, reducer and actions files from scratch.
 
-This simplified calculator adds the entire number selected, rather then adds digits into end of number. In the end of the process, your calculator should function as :
+This simplified calculator adds the entire number selected, rather then adds digits into end of number. In the end of the process, your calculator should function as follows:
 
 ![Calculator Example](project-goals.gif)
 
